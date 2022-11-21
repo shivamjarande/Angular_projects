@@ -1,0 +1,49 @@
+.footer
+{
+    background-color: #000;
+    padding: 20px 10px;
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+    
+}
+
+h1
+{
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+}
+
+p
+{
+    color: #fff;
+    font-size: 14px;
+}
+
+a
+{
+     
+     text-decoration: none;
+     padding: 0px 16px;
+     font-size: 1.2rem;
+} 
+.bi-facebook::before
+{
+    color: blue
+}
+
+.bi-whatsapp::before
+{
+ color: rgb(23, 221, 23);   
+}
+
+.bi-instagram::before
+{
+ color:rgb(250, 51, 91)   
+}
+
+.bi-youtube::before
+{
+ color: rgb(249, 6, 6);   
+}
